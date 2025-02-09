@@ -1,0 +1,23 @@
+{
+  "name": "coffee_sale_dashboard",
+  "version": "1.0.0",
+  "description": "![The project's web diagram and accompanying technologies.](assets/img/image.png)\r This project is a dashboard primarily programmed in Python and visualized with Power BI. The project consists of two parts: file ppbix for the dashboard and Vietnames document for analyzing the dataset.",
+  "homepage": "https://github.com/dinhtanloc/Coffee_sale_dashboard#readme",
+  "bugs": {
+    "url": "https://github.com/dinhtanloc/Coffee_sale_dashboard/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinhtanloc/Coffee_sale_dashboard.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
