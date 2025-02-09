@@ -11,8 +11,6 @@ The overview of this dataset provides detailed insights into various aspects of 
 
 The "Coffee sales and marketing" dataset contains representative information on the retail activities of a coffee shop chain in the United States. This dataset was created by Amber and Sandeep with the purpose of being used for data-driven analysis and decision-making.
 
-The overview of this dataset provides detailed information on all aspects of coffee business operations, from sales and inventory to customer purchasing behavior. The initial goal of the team is to help coffee shop chains make data-driven decisions, optimize business performance, and develop effective marketing strategies to compete in the market.  
-
 The **"Coffee sales and marketing"** dataset contains representative information about the retail operations of a coffee shop chain in the United States. This dataset was created by Amber and Sandeep for the purpose of data-driven analysis and decision-making.  
 
 **Sales Receipts:** This table contains information about each sales transaction, including items sold, quantity, prices, and transaction timestamps. Through this table, you can analyze sales trends over time, identify popular products, and assess revenue generation.  
